@@ -18,7 +18,7 @@ Da Geolocation, Service Worker und die Wake Lock API sicherheitskritische Funkti
 
 ## Installation
 
-1. Klone das Repository in dein Web-Verzeichnis.
+1. Klone das Repository in dein Web-Verzeichnis (z.B. `htdocs` bei XAMPP).
 2. Stelle sicher, dass die Dateistruktur wie folgt aussieht:
     - `/index.php`
     - `/sw.js`
@@ -28,4 +28,3 @@ Da Geolocation, Service Worker und die Wake Lock API sicherheitskritische Funkti
 
 ## Lizenz
 MIT
-
